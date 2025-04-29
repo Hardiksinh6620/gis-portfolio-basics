@@ -1,0 +1,6 @@
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+matplotlib>=3.8
+contextily>=1.5
+pytest>=8.0
